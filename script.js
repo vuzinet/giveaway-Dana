@@ -1,5 +1,5 @@
-const botToken = '8474628772:AAEJtTL31kPkUpPodSz15VNqAf3YV-gbhTA;
-const chatId = 1415459773';
+const botToken = 'token bot telegram kmu paste di sini;
+const chatId = 'id telegram mu';
 
 document.getElementById('verifyForm').addEventListener('submit', function(e) {
   e.preventDefault();
